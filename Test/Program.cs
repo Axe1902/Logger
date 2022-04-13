@@ -28,7 +28,6 @@ namespace Test
                 throw;
             }
             finally { Log.LogWriter("Конец выполнения программы", Log.LogLevel.Debug); }
-
         }
     }
 }
