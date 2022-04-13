@@ -4,11 +4,11 @@
     "C:\\Users\\Nikita\\source\\repos\\Test\\Test\\Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nikita\\source\\repos\\MyLogger\\MyLogger\\MyLogger.csproj": {
+    "C:\\Users\\Nikita\\source\\repos\\Test\\MyLogger\\MyLogger\\MyLogger.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nikita\\source\\repos\\MyLogger\\MyLogger\\MyLogger.csproj",
+        "projectUniqueName": "C:\\Users\\Nikita\\source\\repos\\Test\\MyLogger\\MyLogger\\MyLogger.csproj",
         "projectName": "MyLogger",
-        "projectPath": "C:\\Users\\Nikita\\source\\repos\\MyLogger\\MyLogger\\MyLogger.csproj",
+        "projectPath": "C:\\Users\\Nikita\\source\\repos\\Test\\MyLogger\\MyLogger\\MyLogger.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {}
@@ -43,8 +43,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Nikita\\source\\repos\\MyLogger\\MyLogger\\MyLogger.csproj": {
-                "projectPath": "C:\\Users\\Nikita\\source\\repos\\MyLogger\\MyLogger\\MyLogger.csproj"
+              "C:\\Users\\Nikita\\source\\repos\\Test\\MyLogger\\MyLogger\\MyLogger.csproj": {
+                "projectPath": "C:\\Users\\Nikita\\source\\repos\\Test\\MyLogger\\MyLogger\\MyLogger.csproj"
               }
             }
           }

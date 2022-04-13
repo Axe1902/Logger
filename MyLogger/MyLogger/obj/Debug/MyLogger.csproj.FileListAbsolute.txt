@@ -1,0 +1,6 @@
+C:\Users\Nikita\source\repos\MyLogger\MyLogger\bin\Debug\MyLogger.dll
+C:\Users\Nikita\source\repos\MyLogger\MyLogger\bin\Debug\MyLogger.pdb
+C:\Users\Nikita\source\repos\MyLogger\MyLogger\obj\Debug\MyLogger.csproj.AssemblyReference.cache
+C:\Users\Nikita\source\repos\MyLogger\MyLogger\obj\Debug\MyLogger.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\source\repos\MyLogger\MyLogger\obj\Debug\MyLogger.dll
+C:\Users\Nikita\source\repos\MyLogger\MyLogger\obj\Debug\MyLogger.pdb

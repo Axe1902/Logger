@@ -3,9 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32210.238
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test", "Test\Test.csproj", "{C913ACAB-8723-4643-AD93-22EE3BC1E4D0}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLogger", "MyLogger\MyLogger\MyLogger.csproj", "{CACA4E66-9EB4-4705-86D8-79AE4CFF4C0F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLogger", "MyLogger\MyLogger.csproj", "{CACA4E66-9EB4-4705-86D8-79AE4CFF4C0F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,10 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C913ACAB-8723-4643-AD93-22EE3BC1E4D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C913ACAB-8723-4643-AD93-22EE3BC1E4D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C913ACAB-8723-4643-AD93-22EE3BC1E4D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C913ACAB-8723-4643-AD93-22EE3BC1E4D0}.Release|Any CPU.Build.0 = Release|Any CPU
 		{CACA4E66-9EB4-4705-86D8-79AE4CFF4C0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{CACA4E66-9EB4-4705-86D8-79AE4CFF4C0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CACA4E66-9EB4-4705-86D8-79AE4CFF4C0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -26,6 +20,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {E2BBB5B7-F6C3-4FCC-A478-B4923E7CCE7E}
+		SolutionGuid = {B80742A3-60D9-4A2E-BF56-3E669713C168}
 	EndGlobalSection
 EndGlobal
